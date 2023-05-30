@@ -1,4 +1,4 @@
-#CI/CD for AWS DevOps with AWS CodeCommit and CodeBuild
+# CI/CD for AWS DevOps with AWS CodeCommit and CodeBuild
 
 For the time being, I've established Continuous integration; next, I'll create Continuous deployment, resulting in CI/CD with CodePipeline and AWS.
 
